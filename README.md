@@ -1,1 +1,1 @@
-# METAL-DEFECT-IMAGE-CLASSIFICATION-USING-HYBRID-MACHINE-LEARNING
+AI website using Hybrid Machine Learning (CNN-SVM) for the Final Year Project (FYP). This project is focused on overcoming the manual inspection of metal defects in any metal organization. The dataset used is from the NEU Metal Surface Defect Database. It consists of six types of metal defects in the hot-rolled steel strip. The database only consists of 1,800 grayscale images.
